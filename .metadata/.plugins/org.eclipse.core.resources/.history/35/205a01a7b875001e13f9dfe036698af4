@@ -1,0 +1,5 @@
+package com.ecom.configuration;
+
+public class CustomUserDetailsService {
+
+}

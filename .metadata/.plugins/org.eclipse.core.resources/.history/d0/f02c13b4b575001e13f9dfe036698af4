@@ -1,0 +1,20 @@
+package com.ecom.configuration;
+
+public class JwtResponse {
+	private String token;
+
+	public JwtResponse() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	public String getToken() {
+		return token;
+	}
+
+	public void setToken(String token) {
+		this.token = token;
+	}
+	
+	
+}
